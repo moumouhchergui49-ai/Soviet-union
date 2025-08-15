@@ -1,0 +1,1 @@
+yes | $HOME/.buildozer/android/cmdline-tools/latest/bin/sdkmanager --licenses
